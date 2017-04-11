@@ -1,5 +1,5 @@
 # Foundation
-Repository resources for Mobiltron, Inc. Open Source repositories
+Repository resources for Mobiltron, Inc. Open Source projects.
 
 ### Resources
 
