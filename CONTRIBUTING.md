@@ -1,6 +1,6 @@
 # Contribution
 
-Before working on the project it's very important to understand its value and how it works. You can find that information in the project Documentation *(either in the README file or in the project Wiki)*. All Mobiltron, Inc. projects respect the [CODE OF CONDUCT](https://github.com/mobiltroninc/foundation). Keep it present when contributing with the project. If any of the principles listed there is not followed we'll be forced to take action on that.
+Before working on the project it's very important to understand its value and how it works. You can find that information in the project Documentation *(either in the README file or in the project Wiki)*. All Mobiltron, Inc. projects respect the [CODE OF CONDUCT](https://github.com/MobiltronInc/Foundation/blob/master/CONDUCT.md). Keep it present when contributing with the project. If any of the principles listed there is not followed we'll be forced to take action on that.
 
 ## A note for developers
 
