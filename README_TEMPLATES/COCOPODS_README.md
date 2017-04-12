@@ -1,19 +1,22 @@
-LIBRARY
-==========
+# Project Title
 
 [![CI Status](http://img.shields.io/travis/carambalabs/XXXX.svg?style=flat)](https://travis-ci.org/carambalabs/XXXX)
 [![codecov](https://codecov.io/gh/carambalabs/XXXXX/branch/master/graph/badge.svg)](https://codecov.io/gh/carambalabs/XXXXX)
 [![Dependency Status](https://gemnasium.com/badges/github.com/carambalabs/XXXX.svg)](https://gemnasium.com/github.com/carambalabs/XXXXXX)
 [![Platforms](https://img.shields.io/badge/Platforms-iOS/macOS/watchOS/tvOS-4BC51D.svg?style=flat)]()
 
-## Value
-> Explain the value of the library and its features.
+> One Paragraph of project description goes here. Explain the value of the library and its features.
 
 ## Example
 
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
+> To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
-## Requirements
+## Prerequisites
+> What things you need to install the software and how to install them
+
+```
+Give examples
+```
 
 ## Installation
 
@@ -37,10 +40,16 @@ This project is funded and maintained by [Mobiltron, Inc.](http://mobiltron.com)
 
 Check out our other [open source projects](https://github.com/mobiltroninc/) or say :wave: on twitter [@mobiltron](https://twitter.com/mobiltron).
 
-## Contribute
+## Contributing
 
 Contributions are welcome 🙏🏻 . We encourage developers like you to help us improve the projects we've shared with the community. Please see the [Contributing Guide](https://github.com/mobiltroninc/Foundation/blob/master/CONTRIBUTING.md) and the [Code of Conduct](https://github.com/mobiltroninc/Foundation/blob/master/CONDUCT.md).
 
 ## License
 
-XXXXXX is available under the MIT license. See the LICENSE file for more info.
+XXXXXX is available under the MIT license. See the [LICENSE](LICENSE.md) file for more info.
+
+## Acknowledgments
+
+* Hat tip to anyone who's code was used
+* Inspiration
+* etc

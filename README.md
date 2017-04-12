@@ -8,3 +8,4 @@ Foundation resources for Mobiltron, Inc. Open Source repositories
 - [Issue template](ISSUE_TEMPLATE.md)
 - [Pull Request template](PULL_REQUEST_TEMPLATE.md)
 - [README templates](README_TEMPLATES)
+- [Changelog template](CHANGELOG.md)
