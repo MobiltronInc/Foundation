@@ -1,4 +1,14 @@
-## Changelog
+X.Y.Z Release notes (yyyy-MM-dd)
+=============================================================
 
-### X.Y.Z
-- List of this changed from previous version
+### API Breaking Changes
+
+* None.
+
+### Enhancements
+
+* None.
+
+### Bugfixes
+
+* None.

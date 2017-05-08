@@ -34,7 +34,7 @@ pod "XXXXXXX"
 
 ## About
 
-<img src="https://github.com/mobiltroninc/Foundation/blob/master/ASSETS/mobiltron_square.png?raw=true" width="70" />
+[<img src="https://github.com/mobiltroninc/Foundation/blob/master/ASSETS/mobiltron_square.png?raw=true" width="70" />](http://mobiltron.com/)
 
 This project is funded and maintained by [Mobiltron, Inc.](http://mobiltron.com). We ❤️ open source software!
 
